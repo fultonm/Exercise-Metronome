@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Exercise-Metronome/static/css/main.e5a24761.css",
+    "main.js": "/Exercise-Metronome/static/js/main.729c9728.js",
+    "static/js/238.ccc4f32e.chunk.js": "/Exercise-Metronome/static/js/238.ccc4f32e.chunk.js",
+    "index.html": "/Exercise-Metronome/index.html",
+    "main.e5a24761.css.map": "/Exercise-Metronome/static/css/main.e5a24761.css.map",
+    "main.729c9728.js.map": "/Exercise-Metronome/static/js/main.729c9728.js.map",
+    "238.ccc4f32e.chunk.js.map": "/Exercise-Metronome/static/js/238.ccc4f32e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a24761.css",
+    "static/js/main.729c9728.js"
+  ]
+}
