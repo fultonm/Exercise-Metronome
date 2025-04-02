@@ -4,7 +4,7 @@
   "description": "A simple metronome application built with React.",
   "main": "src/index.js",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && git add .",
     "deploy": "gh-pages -d build",  
     "start": "react-scripts start",
     "build": "react-scripts build && xcopy /E /I build\\* .\\",
@@ -28,10 +28,10 @@
     "react-dom": "^19.1.0",
     "react-scripts": "^5.0.1"
   },
-  "homepage": "http://yourhomepage.com",
+  "homepage": "https://fultonm.github.io/Exercise-Metronome/",
   "repository": {
     "type": "git",
-    "url": "http://github.com/yourusername/react-metronome-app.git"
+    "url": "https://github.com/fultonm/Exercise-Metronome.git"
   },
   "browserslist": {
     "production": [
