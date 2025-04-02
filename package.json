@@ -28,7 +28,7 @@
     "react-dom": "^19.1.0",
     "react-scripts": "^5.0.1"
   },
-  "homepage": "https://fultonm.github.io/Exercise-Metronome/",
+  "homepage": "./",
   "repository": {
     "type": "git",
     "url": "https://github.com/fultonm/Exercise-Metronome.git"
